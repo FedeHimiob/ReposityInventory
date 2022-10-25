@@ -1,0 +1,88 @@
+8/9/2022 7:56:51 p. m.	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'InventarioDB' del equipo 'APPHOMESERVER' por el usuario 'admin'.
+8/9/2022 7:56:51 p. m.	Se inició la importación del esquema de la base de datos.
+8/9/2022 7:57:04 p. m.	Recopilando credenciales de la base de datos
+8/9/2022 7:57:04 p. m.	Recopilando opciones de base de datos
+8/9/2022 7:57:04 p. m.	Recopilando la opción de configuración de ámbito de la base de datos genérica
+8/9/2022 7:57:04 p. m.	Recopilando usuarios
+8/9/2022 7:57:04 p. m.	Recopilando roles
+8/9/2022 7:57:04 p. m.	Recopilando roles de aplicación
+8/9/2022 7:57:04 p. m.	Recopilando pertenencias a roles
+8/9/2022 7:57:04 p. m.	Recopilando grupos de archivos
+8/9/2022 7:57:04 p. m.	Recopilando catálogos de texto completo
+8/9/2022 7:57:04 p. m.	Recopilando ensamblados
+8/9/2022 7:57:04 p. m.	Recopilando certificados
+8/9/2022 7:57:04 p. m.	Recopilando claves asimétricas
+8/9/2022 7:57:04 p. m.	Recopilando claves simétricas
+8/9/2022 7:57:04 p. m.	Recopilando claves simétricas cifradas
+8/9/2022 7:57:04 p. m.	Recopilando esquemas
+8/9/2022 7:57:04 p. m.	Recopilando colecciones de esquemas XML
+8/9/2022 7:57:04 p. m.	Recopilando tipos de datos definidos por el usuario
+8/9/2022 7:57:04 p. m.	Recopilando tipos definidos por el usuario
+8/9/2022 7:57:04 p. m.	Recopilando tipos de tabla
+8/9/2022 7:57:04 p. m.	Recopilando claves únicas para tipos de tabla
+8/9/2022 7:57:04 p. m.	Recopilando claves principales para tipos de tabla
+8/9/2022 7:57:04 p. m.	Recopilando índices para tipos de tablas
+8/9/2022 7:57:04 p. m.	Recopilando restricciones CHECK para tipos de tabla
+8/9/2022 7:57:04 p. m.	Recopilando restricciones DEFAULT para tipos de tabla
+8/9/2022 7:57:04 p. m.	Recopilando funciones de partición
+8/9/2022 7:57:04 p. m.	Recopilando esquemas de partición
+8/9/2022 7:57:04 p. m.	Recopilando funciones
+8/9/2022 7:57:04 p. m.	Recopilando funciones cifradas
+8/9/2022 7:57:04 p. m.	Recopilando agregados
+8/9/2022 7:57:04 p. m.	Recopilando procedimientos
+8/9/2022 7:57:04 p. m.	Recopilando procedimientos cifrados
+8/9/2022 7:57:04 p. m.	Recopilando tablas
+8/9/2022 7:57:04 p. m.	Recopilando claves principales
+8/9/2022 7:57:04 p. m.	Recopilando restricciones UNIQUE
+8/9/2022 7:57:04 p. m.	Recopilando claves externas
+8/9/2022 7:57:04 p. m.	Recopilando restricciones DEFAULT
+8/9/2022 7:57:04 p. m.	Recopilando restricciones CHECK
+8/9/2022 7:57:04 p. m.	Recopilando vistas
+8/9/2022 7:57:04 p. m.	Recopilando vistas cifradas
+8/9/2022 7:57:04 p. m.	Recopilando índices
+8/9/2022 7:57:04 p. m.	Recopilando estadísticas
+8/9/2022 7:57:04 p. m.	Recopilando listas de palabras irrelevantes de índices de texto completo
+8/9/2022 7:57:04 p. m.	Recopilando listas de propiedades de búsqueda
+8/9/2022 7:57:04 p. m.	Recopilando propiedades de búsqueda
+8/9/2022 7:57:04 p. m.	Recopilando índices de texto completo
+8/9/2022 7:57:04 p. m.	Recopilando índices de almacenamiento de columnas
+8/9/2022 7:57:04 p. m.	Recopilando índices espaciales
+8/9/2022 7:57:04 p. m.	Recopilando índices XML
+8/9/2022 7:57:04 p. m.	Recopilando índices XML selectivos
+8/9/2022 7:57:04 p. m.	Recopilando desencadenadores cifrados
+8/9/2022 7:57:04 p. m.	Recopilando desencadenadores
+8/9/2022 7:57:04 p. m.	Recopilando DDL triggers cifrados y de CLR
+8/9/2022 7:57:04 p. m.	Recopilando DDL triggers
+8/9/2022 7:57:04 p. m.	Creación de la restricción perimetral en curso
+8/9/2022 7:57:05 p. m.	Recopilando sinónimos
+8/9/2022 7:57:05 p. m.	Recopilando valores predeterminados
+8/9/2022 7:57:05 p. m.	Recopilando enlaces UDDT de restricción de datos
+8/9/2022 7:57:05 p. m.	Recopilando reglas
+8/9/2022 7:57:05 p. m.	Recopilando enlaces UDDT de restricción de datos
+8/9/2022 7:57:05 p. m.	Recopilando tipos de mensaje
+8/9/2022 7:57:05 p. m.	Recopilando colas
+8/9/2022 7:57:05 p. m.	Recopilando contratos
+8/9/2022 7:57:05 p. m.	Recopilando servicios
+8/9/2022 7:57:05 p. m.	Recopilando notificaciones de eventos
+8/9/2022 7:57:05 p. m.	Recopilando enlaces de servicio remoto
+8/9/2022 7:57:05 p. m.	Recopilando prioridades de Broker
+8/9/2022 7:57:05 p. m.	Recopilando firmas
+8/9/2022 7:57:05 p. m.	Recopilando opciones de compresión de datos
+8/9/2022 7:57:05 p. m.	Recopilando tipos de secuencia
+8/9/2022 7:57:05 p. m.	Recopilando directivas de seguridad
+8/9/2022 7:57:05 p. m.	Recopilar claves de cifrado de columna
+8/9/2022 7:57:05 p. m.	Recopilando claves maestras de columna
+8/9/2022 7:57:05 p. m.	Recopilando orígenes de datos externos
+8/9/2022 7:57:05 p. m.	Recopilando formatos de archivo externos
+8/9/2022 7:57:05 p. m.	Recopilando tablas externas
+8/9/2022 7:57:05 p. m.	Recopilando permisos de base de datos
+8/9/2022 7:57:05 p. m.	Recopilando propiedades extendidas
+8/9/2022 7:57:05 p. m.	Recopilando ensamblados
+8/9/2022 7:57:05 p. m.	Recopilando credenciales
+8/9/2022 7:57:05 p. m.	Recopilando inicios de sesión
+8/9/2022 7:57:05 p. m.	Recopilando auditorías de servidor
+8/9/2022 7:57:08 p. m.	Buscando elementos duplicados en el proyecto
+8/9/2022 7:57:08 p. m.	Ha finalizado el procesamiento de los elementos duplicados
+8/9/2022 7:57:08 p. m.	Finalizó la importación de la base de datos.
+8/9/2022 7:57:08 p. m.	Se guardó un resumen de la importación en la siguiente ubicación: C:\Users\admin\Desktop\curso C#\material curso Udemy\Ejercicios POO\SistemaDeInventario\InventarioDB\Registros de importación de esquemas\InventarioDB_20220908115651.log
+8/9/2022 7:57:08 p. m.	Haga clic en Finalizar para continuar...
